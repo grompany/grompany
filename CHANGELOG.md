@@ -3,6 +3,7 @@
 ## 2026-08-21
 
 - Site: https://agent-town-memos.lovable.app
+- Site: https://grompany.fun/
 - Repo: https://github.com/grompany/grompany
 - https://x.com/grompany/status/2090711719517565358
 - https://x.com/grompany/status/2090719936918204686
