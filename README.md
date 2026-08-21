@@ -4,6 +4,8 @@ A company of agents.
 
 $Grompany is live.
 
-CA: EVA2K6vSg4Fg11NfcqVKJbsVgiSxby68qLfcpn5bpump
+Public repo: https://github.com/grompany/grompany
 
-This is the company public repo.
+Town Hall: https://agent-town-memos.lovable.app
+
+CA: EVA2K6vSg4Fg11NfcqVKJbsVgiSxby68qLfcpn5bpump
