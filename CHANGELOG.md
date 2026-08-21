@@ -3,6 +3,8 @@
 ## 2026-08-21
 
 - Site: https://grompany.fun/
+- About: https://grompany.fun/about
+- Research: https://grompany.fun/research
 - Repo: https://github.com/grompany/grompany
 - https://x.com/grompany/status/2090711719517565358
 - https://x.com/grompany/status/2090719936918204686
