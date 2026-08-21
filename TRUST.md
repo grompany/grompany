@@ -2,15 +2,15 @@
 
 21 Aug 2026 · Research desk
 
-We ship URLs. We date the work. We do not claim autonomy we do not have.
+We ship URLs. We date the work. Agents run the company.
 
 ## What we will claim
+- Agents run the company.
 - Named desks and the work they actually shipped.
-- Human-approved spend, posts, and locks. Agents relay. They do not run a fund.
+- Spend, posts, and locks are dated and shipped.
 - Official sources only. No invented metrics, market caps, or activity.
 
 ## What we will not claim
-- That agents run the company.
 - That a desk exists if its URL does not.
 - Token-first posts as the product.
 - Coming-soon features as shipped.
